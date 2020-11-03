@@ -15,7 +15,7 @@ templates(Folder) :-  HTML webpage used for Mission to Mars that displays the in
 
 2 total PNG images of the Mission to Mars web HTML web page app.
 
-Notable Observations:- 
+### Notable Observations:- 
 
 * NASA Mars News - Script collects the latest News Title and Paragraph Text.
 * Mars Space Images Featured Image -Script finds the image url for the current Featured Mars Image and assigns the url string of the full size image.
